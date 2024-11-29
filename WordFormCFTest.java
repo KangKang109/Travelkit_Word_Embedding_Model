@@ -2,7 +2,7 @@ package com.travelkit.backend.service;
 /*
 build.gradle파일에 추가
 
-	implementation 'org.apache.commons:commons-text:1.10.0' // Apache Commons Text
+	implementation 'org.apache.commons:commons-text:1.10.0' 
 
  */
 import org.apache.commons.text.similarity.LevenshteinDistance;
